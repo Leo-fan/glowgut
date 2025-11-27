@@ -1,0 +1,7 @@
+{
+  "name": "GlowGut Pro",
+  "description": "Decode Your Body's Hidden Signals in 3 Seconds. AI-powered wellness analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
