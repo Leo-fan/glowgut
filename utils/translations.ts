@@ -55,7 +55,7 @@ export const translations: Record<LanguageCode, Translation> = {
       privacyFooter: "Privacy Policy | Terms of Use",
       privacyTitle: "Data & Privacy",
       privacyContent: [
-        "Photos are processed in RAM and strictly deleted immediately.",
+        "Your tongue photo is sent to Agnes AI for analysis. GlowGut does not store it.",
         "We do not provide medical diagnoses.",
         "Recommendations may contain affiliate links."
       ],
@@ -105,7 +105,7 @@ export const translations: Record<LanguageCode, Translation> = {
       privacyFooter: "隐私政策 | 使用条款",
       privacyTitle: "隐私声明",
       privacyContent: [
-        "照片仅在内存中处理，处理完即刻销毁。",
+        "舌头照片会发送给 Agnes AI 分析；GlowGut 不会保存照片。",
         "不提供医疗诊断服务。",
         "推荐可能包含推广链接。"
       ],
@@ -155,7 +155,7 @@ export const translations: Record<LanguageCode, Translation> = {
       privacyFooter: "プライバシーポリシー | 利用規約",
       privacyTitle: "プライバシー",
       privacyContent: [
-        "写真は処理後すぐに削除されます。",
+        "舌の写真は分析のためAgnes AIに送信されます。GlowGutは写真を保存しません。",
         "医療診断は提供しません。",
         "アフィリエイトリンクが含まれています。"
       ],
@@ -205,7 +205,7 @@ export const translations: Record<LanguageCode, Translation> = {
       privacyFooter: "개인정보 보호 | 이용약관",
       privacyTitle: "데이터 및 개인정보",
       privacyContent: [
-        "사진은 처리 후 즉시 삭제됩니다.",
+        "혀 사진은 분석을 위해 Agnes AI로 전송되며 GlowGut은 사진을 저장하지 않습니다.",
         "의료 진단을 제공하지 않습니다.",
         "제휴 링크가 포함되어 있습니다."
       ],
@@ -255,7 +255,7 @@ export const translations: Record<LanguageCode, Translation> = {
       privacyFooter: "Datenschutz | AGB",
       privacyTitle: "Datenschutz",
       privacyContent: [
-        "Fotos werden sofort gelöscht.",
+        "Ihr Zungenfoto wird zur Analyse an Agnes AI gesendet. GlowGut speichert es nicht.",
         "Keine medizinische Diagnose.",
         "Enthält Affiliate-Links."
       ],
@@ -305,7 +305,7 @@ export const translations: Record<LanguageCode, Translation> = {
       privacyFooter: "Confidentialité | Conditions",
       privacyTitle: "Confidentialité",
       privacyContent: [
-        "Photos supprimées immédiatement.",
+        "Votre photo de langue est envoyée à Agnes AI pour analyse. GlowGut ne la stocke pas.",
         "Pas de diagnostic médical.",
         "Liens affiliés inclus."
       ],
@@ -355,7 +355,7 @@ export const translations: Record<LanguageCode, Translation> = {
       privacyFooter: "الخصوصية | الشروط",
       privacyTitle: "الخصوصية",
       privacyContent: [
-        "يتم حذف الصور فورًا.",
+        "تُرسل صورة اللسان إلى Agnes AI لتحليلها. لا يحتفظ GlowGut بالصورة.",
         "لا نقدم تشخيصًا طبيًا.",
         "يحتوي على روابط تابعة."
       ],
@@ -363,3 +363,4 @@ export const translations: Record<LanguageCode, Translation> = {
     }
   }
 };
+

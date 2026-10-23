@@ -3,7 +3,7 @@ import { Camera } from './components/Camera';
 import { AnalysisLoader } from './components/AnalysisLoader';
 import { Results } from './components/Results';
 import { AppState, AnalysisResult, LanguageCode } from './types';
-import { analyzeTongueImage } from './services/geminiService';
+import { analyzeTongueImage } from './services/agnesService';
 import { translations, LANGUAGES } from './utils/translations';
 
 const App: React.FC = () => {
@@ -131,7 +131,7 @@ const App: React.FC = () => {
                 </svg>
               </button>
               <p className="text-center text-[10px] text-stone-400 mt-4 font-medium uppercase tracking-widest opacity-60">
-                  Powered by Gemini 1.5 Pro
+                  Powered by Agnes AI · agnes-2.5-flash
               </p>
           </div>
           
